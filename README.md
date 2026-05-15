@@ -234,6 +234,57 @@ Low-fidelity clickable navigation paths are currently being prototyped in Adobe 
 
 ---
 
+✨ Current Design Direction
+
+The current homepage exploration focuses on balancing emotional storytelling with clarity, trust, and ease of navigation.
+
+The evolving layout experiments with:
+
+- Large visual entry points for product discovery
+- Layered homepage sections
+- Floating content blocks
+- Editorial-inspired spacing
+- Subtle interaction feedback
+- Trust-focused UX elements
+
+Current homepage sections being explored include:
+
+- Hero landing section
+- Shop Perfumes
+- Shop Flowers
+- Verified Reviews
+- Reliable Delivery
+- Easy Returns
+- “This Month’s Discoveries” carousel
+- Subscription discovery section
+- Our Story
+- Blog integration
+
+Many design decisions are directly informed by research findings and personal observations surrounding:
+
+- Delivery anxiety
+- Trust in unfamiliar online stores
+- Importance of refunds and transparency
+- Product authenticity concerns
+- Hesitations around purchasing perfumes without physical testing
+- The emotional nature of gifting experiences
+
+The project currently explores how interaction design can help reduce uncertainty and improve user confidence during online purchases.
+
+Planned interaction patterns include:
+
+- Subtle hover animations
+- Responsive visual feedback
+- Smooth transitions
+- Layered scrolling experiences
+- Interactive category navigation
+
+The visual inspiration for the project draws partially from modern fragrance, cosmetic, and editorial-style e-commerce experiences while still aiming to maintain intuitive navigation and usability.
+
+The design direction is still actively evolving through iterative wireframing and low-fidelity prototyping in Adobe XD.
+
+---
+
 ## 🎨 Visual Direction
 
 The current visual direction aims to combine:
