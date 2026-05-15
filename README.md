@@ -337,19 +337,54 @@ It also helped me move away from fictional assumptions and focus more heavily on
 🟡 In Progress
 
 Currently working on:
-- Low-fidelity prototyping
-- Wireframe refinement
-- Improved interaction flows
-- Documentation cleanup
-- Portfolio presentation structure
+
+Low-fidelity prototyping
+Homepage interaction refinement
+Navigation flow experimentation
+Adobe XD clickable prototype development
+Homepage content hierarchy iteration
+Documentation cleanup
+Portfolio presentation structure
 
 ---
 
 ## 📌 Repository Structure
 
-```text
 01_Project_Foundation
+- Problem statement
+- Business goals
+- Project scope
+- Initial UX planning
+
 02_Information_Architecture
-03_Wireframes_&_LowFidelity
-04_User_Research
-05_Personas_&_Empathy_Maps
+- Sitemap planning
+- Navigation structure
+- Category organization
+- User flow foundations
+
+03_User_Research
+- Interview notes
+- Survey findings
+- Research synthesis
+- Behavioral observations
+
+04_Personas_&_Empathy_Maps
+- User personas
+- Empathy mapping
+- Pain points
+- User motivations
+- Behavioral insights
+
+05_Wireframes_&_LowFidelity
+- Homepage wireframe explorations
+- Category page structures
+- Navigation experimentation
+- Low-fidelity layouts
+- Adobe XD prototype progress
+
+06_Interaction_&_Visual_Direction
+- Homepage hierarchy exploration
+- Interaction design decisions
+- Trust-focused UX exploration
+- Homepage content structure
+- Early visual direction planning
