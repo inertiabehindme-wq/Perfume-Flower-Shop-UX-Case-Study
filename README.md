@@ -234,6 +234,49 @@ Low-fidelity clickable navigation paths are currently being prototyped in Adobe 
 
 ---
 
+### Luxury Interaction & Brand World Exploration
+
+Recent wireframing iterations began exploring a more immersive luxury-oriented browsing experience inspired by editorial fashion layouts and fragrance campaign design.
+
+#### Current Exploration Areas
+- Brand-based perfume navigation
+- Emotional “Brand World” category pages
+- Cinematic background imagery
+- Hover-based interaction feedback
+- Floating sticker-style perfume visuals
+- Layered atmosphere-driven layouts
+- Progressive navigation to reduce decision fatigue
+- Luxury-inspired motion and transition behavior
+
+#### Planned Browsing Flow
+
+Homepage  
+→ Perfumes  
+→ Women / Men / Unisex  
+→ Brand Selection  
+→ Brand World Experience  
+→ Product Pages
+
+#### Brand Identity Direction
+
+Each perfume category is planned to maintain its own emotional atmosphere and visual identity while preserving consistent navigation and interaction systems across the platform.
+
+Examples currently being explored:
+
+- Dior → cinematic dark blue luxury atmosphere
+- Giorgio Armani → warm refined amber tones
+- Versace → bold high-fashion glamour aesthetics
+
+#### UX Strategy Insights
+- Emotional commerce design
+- Immersive browsing behavior
+- Reduced cognitive overload through layered navigation
+- Editorial-inspired luxury interaction design
+- Consistent system structure across different brand experiences
+
+This direction reflects an ongoing shift toward combining e-commerce UX with immersive editorial-inspired interaction design.
+---
+
 ✨ Current Design Direction
 
 The current homepage exploration focuses on balancing emotional storytelling with clarity, trust, and ease of navigation.
